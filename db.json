@@ -8,7 +8,7 @@
       "image": "https://cdn.dealeraccelerate.com/coyote/1/693/55160/1920x1440/1967-ford-mustang",
       "description": "An American muscle icon.",
       "story": "A symbol of freedom and rebellion in the 1960s.",
-      "likes": 10,
+      "likes": 11,
       "status": "available"
     },
     {
@@ -80,6 +80,12 @@
       "carId": 5,
       "username": "Lara",
       "message": "The Beetle reminds me of my childhood."
+    },
+    {
+      "id": "8452",
+      "carId": "1",
+      "username": "Guest",
+      "message": "Wow, good taste"
     }
   ]
 }
