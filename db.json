@@ -1,0 +1,85 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "1967 Ford Mustang",
+      "year": 1967,
+      "price": 55000,
+      "image": "https://cdn.dealeraccelerate.com/coyote/1/693/55160/1920x1440/1967-ford-mustang",
+      "description": "An American muscle icon.",
+      "story": "A symbol of freedom and rebellion in the 1960s.",
+      "likes": 10,
+      "status": "available"
+    },
+    {
+      "id": "2",
+      "name": "1959 Cadillac Eldorado",
+      "year": 1959,
+      "price": 72000,
+      "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39",
+      "description": "Luxury and elegance of the 50s.",
+      "story": "Represents post-war American prosperity.",
+      "likes": 7,
+      "status": "sold"
+    },
+    {
+      "id": "3",
+      "name": "1963 Chevrolet Corvette Stingray",
+      "year": 1963,
+      "price": 85000,
+      "image": "https://robbreport.com/wp-content/uploads/2025/01/opener-w-1963-Chevrolet-Corvette-Sting-Ray-Split-Window-Coupe_197384.jpg",
+      "description": "Iconic American sports car.",
+      "story": "The Corvette Stingray defined performance and design for generations.",
+      "likes": 15,
+      "status": "available"
+    },
+    {
+      "id": "4",
+      "name": "1970 Dodge Charger",
+      "year": 1970,
+      "price": 90000,
+      "image": "https://cdn.dealeraccelerate.com/tbm/1/514/39350/1920x1440/1970-dodge-charger-rt",
+      "description": "Muscle car legend.",
+      "story": "Famous for its role in pop culture and racing history.",
+      "likes": 12,
+      "status": "available"
+    },
+    {
+      "id": "5",
+      "name": "1969 Volkswagen Beetle",
+      "year": 1969,
+      "price": 25000,
+      "image": "https://dealeraccelerate-all.s3.amazonaws.com/artandspeed/images/3/8/0/380/16430_b7236bb6c7161969_vw_beetle_for_sale_memphis_tn__43_.jpg",
+      "description": "The people's classic car.",
+      "story": "Represents simplicity, charm, and a global automotive icon.",
+      "likes": 6,
+      "status": "available"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "carId": 1,
+      "username": "John",
+      "message": "Love this Mustang! Pure classic muscle."
+    },
+    {
+      "id": "2",
+      "carId": 3,
+      "username": "Anna",
+      "message": "The Stingray design is timeless."
+    },
+    {
+      "id": "3",
+      "carId": 2,
+      "username": "Mike",
+      "message": "Cadillac Eldorado looks so elegant!"
+    },
+    {
+      "id": "4",
+      "carId": 5,
+      "username": "Lara",
+      "message": "The Beetle reminds me of my childhood."
+    }
+  ]
+}
