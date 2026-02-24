@@ -65,7 +65,7 @@ Steps:
  - npm install
 
 3. Start JSON Server (backend mock API):
- - npm run server
+ - json-server --watch db.json --port 6001
 
  - This will run JSON Server at http://localhost:6001. The db.json file contains cars and comments.
 
