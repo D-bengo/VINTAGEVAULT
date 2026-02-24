@@ -13,7 +13,7 @@ VintageVault is a web application built with React and Vite, dedicated to showca
 9. Credits
 
 ## Demo
-Live Demo URL: https://d-bengo.github.io/VINTAGEVAULT/
+Live Demo URL: [Vintage Vault live](https://vintagevault-puce.vercel.app/)
 
 ## Features
 - Home Page: Cinematic welcome screen with a vintage car background.
