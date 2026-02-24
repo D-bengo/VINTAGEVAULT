@@ -14,6 +14,7 @@ VintageVault is a web application built with React and Vite, dedicated to showca
 
 ## Demo
 Live Demo URL: [Vintage Vault live](https://vintagevault-puce.vercel.app/)
+- Then when the pop up comes, click vintagevault-puce.vercel.app to access other apps and services on the device to display the full project.
 
 ## Features
 - Home Page: Cinematic welcome screen with a vintage car background.
